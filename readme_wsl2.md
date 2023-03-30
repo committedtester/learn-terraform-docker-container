@@ -85,7 +85,7 @@ Install the Remote Development Extension and then restart the application
 **Install Terraform**
 https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
 
-Create directory in the aaronmckay home directory and follow the quick start tutorial
+Create directory in the user's home directory and follow the quick start tutorial
 
 Install AWS CLI as per
 https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
