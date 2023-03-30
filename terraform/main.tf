@@ -51,5 +51,3 @@ resource "aws_s3_object" "object_www" {
   content_type = "text/html"
   acl          = "public-read"
 }
-
-
