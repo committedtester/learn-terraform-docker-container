@@ -1,6 +1,6 @@
 # Quick Version
 
-For the full setup please
+For the full setup please refer to readme_wsl2.md
 
 cd terraform
 tflocal init
